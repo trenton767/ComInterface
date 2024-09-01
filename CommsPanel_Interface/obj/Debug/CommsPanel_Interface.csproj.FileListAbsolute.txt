@@ -12,3 +12,15 @@ C:\Users\travi\source\repos\CommsPanel_Interface\CommsPanel_Interface\obj\Debug\
 C:\Users\travi\source\repos\CommsPanel_Interface\CommsPanel_Interface\bin\Debug\Newtonsoft.Json.dll
 C:\Users\travi\source\repos\CommsPanel_Interface\CommsPanel_Interface\bin\Debug\Newtonsoft.Json.xml
 C:\Users\travi\source\repos\CommsPanel_Interface\CommsPanel_Interface\obj\Debug\CommsPanel_Interface.csproj.CopyComplete
+C:\Users\travi\OneDrive\Documents\GitHub\ComInterface\CommsPanel_Interface\obj\Debug\CommsPanel_Interface.csproj.AssemblyReference.cache
+C:\Users\travi\OneDrive\Documents\GitHub\ComInterface\CommsPanel_Interface\obj\Debug\CommsPanel_Interface.Form1.resources
+C:\Users\travi\OneDrive\Documents\GitHub\ComInterface\CommsPanel_Interface\obj\Debug\CommsPanel_Interface.Properties.Resources.resources
+C:\Users\travi\OneDrive\Documents\GitHub\ComInterface\CommsPanel_Interface\obj\Debug\CommsPanel_Interface.csproj.GenerateResource.cache
+C:\Users\travi\OneDrive\Documents\GitHub\ComInterface\CommsPanel_Interface\obj\Debug\CommsPanel_Interface.csproj.CoreCompileInputs.cache
+C:\Users\travi\OneDrive\Documents\GitHub\ComInterface\CommsPanel_Interface\obj\Debug\CommsPanel_Interface.exe
+C:\Users\travi\OneDrive\Documents\GitHub\ComInterface\CommsPanel_Interface\obj\Debug\CommsPanel_Interface.pdb
+C:\Users\travi\OneDrive\Documents\GitHub\ComInterface\CommsPanel_Interface\bin\Debug\CommsPanel_Interface.exe.config
+C:\Users\travi\OneDrive\Documents\GitHub\ComInterface\CommsPanel_Interface\bin\Debug\CommsPanel_Interface.exe
+C:\Users\travi\OneDrive\Documents\GitHub\ComInterface\CommsPanel_Interface\bin\Debug\CommsPanel_Interface.pdb
+C:\Users\travi\OneDrive\Documents\GitHub\ComInterface\CommsPanel_Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\travi\OneDrive\Documents\GitHub\ComInterface\CommsPanel_Interface\obj\Debug\CommsPan.FFAC525E.Up2Date
