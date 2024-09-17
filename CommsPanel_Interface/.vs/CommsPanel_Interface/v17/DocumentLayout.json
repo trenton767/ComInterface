@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\travi\\OneDrive\\Documents\\GitHub\\ComInterface\\CommsPanel_Interface\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\travi\\OneDrive\\Documents\\GitHub\\ComInterface\\CommsPanel_Interface\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DCB37CD-806D-43E2-9934-A0EC4A3CDCB3}|CommsPanel_Interface.csproj|c:\\users\\travi\\onedrive\\documents\\github\\cominterface\\commspanel_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCB37CD-806D-43E2-9934-A0EC4A3CDCB3}|CommsPanel_Interface.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCB37CD-806D-43E2-9934-A0EC4A3CDCB3}|CommsPanel_Interface.csproj|c:\\users\\travi\\onedrive\\documents\\github\\cominterface\\commspanel_interface\\dbs_mfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCB37CD-806D-43E2-9934-A0EC4A3CDCB3}|CommsPanel_Interface.csproj|solutionrelative:dbs_mfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCB37CD-806D-43E2-9934-A0EC4A3CDCB3}|CommsPanel_Interface.csproj|c:\\users\\travi\\onedrive\\documents\\github\\cominterface\\commspanel_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DCB37CD-806D-43E2-9934-A0EC4A3CDCB3}|CommsPanel_Interface.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\travi\\OneDrive\\Documents\\GitHub\\ComInterface\\CommsPanel_Interface\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\travi\\OneDrive\\Documents\\GitHub\\ComInterface\\CommsPanel_Interface\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:59:43.502Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +45,23 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\travi\\OneDrive\\Documents\\GitHub\\ComInterface\\CommsPanel_Interface\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAAAI4AAAAMAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAIAwwNMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T03:33:21.726Z",
+              "WhenOpened": "2024-09-17T16:24:00.949Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBS_MFS.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\OneDrive\\Documents\\GitHub\\ComInterface\\CommsPanel_Interface\\DBS_MFS.cs",
+              "RelativeDocumentMoniker": "DBS_MFS.cs",
+              "ToolTip": "C:\\Users\\travi\\OneDrive\\Documents\\GitHub\\ComInterface\\CommsPanel_Interface\\DBS_MFS.cs",
+              "RelativeToolTip": "DBS_MFS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:35:00.238Z",
               "EditorCaption": ""
             }
           ]
