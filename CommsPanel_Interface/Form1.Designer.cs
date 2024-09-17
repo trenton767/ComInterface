@@ -37,11 +37,10 @@
             // 
             // debugBox_tb
             // 
-            this.debugBox_tb.Location = new System.Drawing.Point(24, 23);
-            this.debugBox_tb.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.debugBox_tb.Location = new System.Drawing.Point(12, 12);
             this.debugBox_tb.Multiline = true;
             this.debugBox_tb.Name = "debugBox_tb";
-            this.debugBox_tb.Size = new System.Drawing.Size(1548, 816);
+            this.debugBox_tb.Size = new System.Drawing.Size(776, 426);
             this.debugBox_tb.TabIndex = 0;
             // 
             // VATSIM_ScapeTMR
@@ -51,7 +50,8 @@
             // 
             // CheckForConnectionsTMR
             // 
-            this.CheckForConnectionsTMR.Interval = 30000;
+            this.CheckForConnectionsTMR.Interval = 10000;
+            this.CheckForConnectionsTMR.Tick += new System.EventHandler(this.CheckForConnectionsTMR_Tick);
             // 
             // ListenTMR
             // 
@@ -60,11 +60,10 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1600, 865);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.debugBox_tb);
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
